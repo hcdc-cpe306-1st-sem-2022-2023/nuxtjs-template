@@ -1,6 +1,4 @@
-# Naks.js
-
-> A minimalistic Nuxt starter template using Vuetify and API Repository Pattern. Naks naman!
+# NuxtJS Template for HCDC Web Class
 
 ## Build Setup
 
@@ -24,5 +22,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-Made with ❤️ at [Nuxify](https://nuxify.tech)
